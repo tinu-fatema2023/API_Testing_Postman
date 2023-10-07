@@ -1,5 +1,5 @@
 # PostmanTool and REST API:
-Postman is a comprehensive API testing tool that simplifies creating, testing, and documenting APIs. REST APIs are a very common and important type of API that uses HTTP protocol for data transmission. we can easily implement the REST API approach by using Postman REST Client. It can handle various types of HTTP requests ranging from GET, POST, PUT, PATCH, DELETE converting the API to code for other languages like JavaScript, Python, etc. Here in the picture, I have shown the different methods:
+Postman is a comprehensive API testing tool that simplifies creating, testing, and documenting APIs. REST APIs are a very common and important type of API that uses HTTP protocol for data transmission. we can easily implement the REST API approach by using Postman REST Client. It can handle various types of HTTP requests ranging from GET, POST, PUT, PATCH, DELETE converting the API to code for other languages like JavaScript, Python, etc. Here in the picture, I have shown the different methods using Restful-Booker API(https://restful-booker.herokuapp.com):
 
 ![Screenshot_1](https://github.com/tinu-fatema2023/API_Testing_Postman/assets/143411063/8d4f488f-bd08-4446-bd5f-5acfd1db7a93)
 # Adding Environment Variables:
